@@ -3,36 +3,35 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Super Snail
-subtitle: At the bottom of the well, it is destined to see only the sky at the wellhead. 
-          However, the starting point only affects the process of reaching your peak and does not determine the height you reach.
-author: Dusign
+title: just cooking
+subtitle: Welcome to the world-famous Just cooking Subscribe to our channel and stay up to date on our latest pranks, Recipe tutorials, tips, techniques and the best bits from the archives.
+author: Ben Abdeen
 language: en
 timezone:
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: https://dusign.net       # Note: don't forget to modify the CNAME file to your url
-root: /
-permalink: :year/:month/:day/:title/
-permalink_defaults:
+# url: https://dusign.net       # Note: don't forget to modify the CNAME file to your url
+# root: /
+# permalink: :year/:month/:day/:title/
+# permalink_defaults:
 
 #Custom Setting Start
 
 # Site settings
-SEOTitle: Hexo-theme-snail
-email: hexo-theme-snail@mail.com
-description: "A hexo theme"
+SEOTitle: Just Cooking
+email: justcooking202@gmail.com
+description: "recipes and cooking"
 keyword: "dusign, hexo-theme-snail"
-header-img: img/header_img/home-bg-1-dark.jpg
+header-img: img/header_img/Wallpaper Greek, cooking, recipe, lettuce, tomatoes, paprika, olives, feta, 4k, Food 1343218940.jpg
 signature: true #show signature
-signature-img: img/signature/dusign.png
+signature-img: img/signature/Just-Cooking-Logo.png
 
 # SNS settings
-github_username:    dusign
-twitter_username:   dusignr
-facebook_username:  Gang Du
-zhihu_username: dusignr
+github_username:    mohamed0group
+twitter_username:   mohamed32950500
+facebook_username:  just0cooking
+
 
 # Build settings
 anchorjs: true                          # if you want to customize anchor. check out line:181 of `post.html`
@@ -46,8 +45,8 @@ ga_domain: yoursite
 
 # Sidebar settings
 sidebar: true                      # whether or not using Sidebar.
-sidebar-about-description: "Welcome to visit, I'm Dusign!"
-sidebar-avatar: img/ironman-draw.png      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-about-description: "Welcome to justcooking"
+sidebar-avatar: img/5e14d5474.png      # use absolute URL, seeing it's used in both `/` and `/about/`
 widgets:
 - search
 - featured-tags
@@ -240,7 +239,7 @@ bg_effects:
 ## light , dark or star
 ## If you set the value of the `color_theme` to `dark`, set the value of the `highlight_theme` to `night` in `/theme/snail/config.yml`
 ## `mouse_control` is only valid for star themes
-color_theme: light
+color_theme: dark
 mouse_control: false
 
 # Visitor statistics
